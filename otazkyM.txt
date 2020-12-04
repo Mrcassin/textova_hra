@@ -1,0 +1,11 @@
+otazka;odpovedA;odpovedB;odpovedC;spravna;typ
+Myslim na cislo, ak ho zvacsim 5-krat, odcitam 3 a vysledok zmensim o 75% dostanem cislo o 1 vecsie ako je myslene cislo. Ake je myslenE cislo?;7;0;0;a;o
+Ak 5 kavovarov spravi 5 kav za 5 minut, ako dlho potrva 100 kavovarom urobit 100 kav?;5;100;50;a;u
+Doma su dve matky, dve dcery, jedna babka a jedna vnucka. Kolko je v dome ludi?;3;0;0;a;o
+V skumavke sa nachadza bakteria, kazdy den sa ich pocet zdvojnasobi. Bakterie naplnili skumavku za 29 dni, za kolko ju naplnili do polovice?;15;14;28;c;u
+Majme zadane a > b > c > 2. Plati a*b*c < a+a+a ?;Ano, vzdy.;Nie, nikdy.;Nevieme rozhodnout.;a;u
+Majme zadane a > b > c > r > 1. Plati (a+b+c)*r > r ?;Ano, vzdy.;Ne, nikdy.;Nevieme rozhodnout.;a;u
+Dievcatam bude 7 rokov, ich otec ma 34 rokov. Za ako dlho bude sucet dievcat rovny otcovemu veku?;20;0;0;a;o
+Sucet piatich za sebou iducich cisel je 630. Aka su to cisla?;300,301,302,303,304;102,103,104,105,106;230,231,232,233,234;c;u
+Otec ma troch synov vo veku 8,5 a 3 roky.Za osem rokov bude sucet ich rokov rovnaky s rokmi ich otca v tej dobe. Kolko je otcovi rokov dnes?;32;0;0;a;o
+Vo vojenskej nemocnici lezi presne 100 vojakov. 70 znich stratilo oko, 75 znich stratilo ucho, 85 znich stratilo nohu a 80 prislo o ruku. Aky je minimalny pocet vojakov, ktori maju vsetky styri zranenia?;10;0;0;a;o

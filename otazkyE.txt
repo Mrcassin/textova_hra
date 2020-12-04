@@ -1,0 +1,11 @@
+otazka;odpovedA;odpovedB;odpovedC;spravna;typ
+Elektricky prud ma velkost 500mA. Aky velky elektricky naboj prejde prierezom vodica za cas 4s?;2;0;0;a;o
+Aky je vykon rychlovarnej kanvice s prikonom 2 kW s ucinnostou 90%?;1,5;1,8;1,6;b;u
+Rezistor ma hodnotu 50 ohmov a prechadza nim prud 120mA. Ake je napetie na rezistore?;6;0;0;a;o
+Aky velky prud prechadza spotrebicom o odpore 10 Ohmu, ktory je pripojeny k sietovemu napetiu (230 V)?;23;0;0;a;o
+Urci odpor ziarovky, ktorou prechadza prud 200 mA a je v beznej lampe.;1200;1150;1350;b;u
+Medzi svorkami rezistora je napetie 20 V a prechadza ním elektricky prud 5 mA. Aky je odpor rezistora?;4000;0;0;a;o
+Vypocitaj, ake velke elektricke napetie je na svorkach ziarovky, ak je vykonana praca 18 J na prenos castic s el. Nabojom 6 C.;2;0;0;a;o
+Aky je odpor vlakna ziarovky, ak je pripojena na 9V bateriu a prechadza nou prud 120 mA?;80;70;75;c;u
+Elektrický odpor cievky z medeneho drotu je 2,0 ohmov. Aky prud prechádza cievkou, ked je medzi svorkami napatie 3,0 V?;1,5;0;0;a;o
+Vypocitaj prud vo vodici (v mA), ak je pripojeny k zdroju napetia 4,5 V a jeho odpor je 20 (ohm).;225;230;235;a;u
